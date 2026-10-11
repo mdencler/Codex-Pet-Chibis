@@ -1,0 +1,8 @@
+*.webp binary
+*.png binary
+*.gif binary
+*.zip binary
+*.md text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
