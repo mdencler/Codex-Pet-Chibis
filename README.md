@@ -78,10 +78,3 @@ After downloading the repository, you can verify file integrity with Python 3:
 ```text
 python scripts/verify.py
 ```
-
-## About the artwork
-
-These are custom fan-made character interpretations created with image generation
-and deterministic sprite processing. Character names and designs belong to their
-respective owners; this collection is not affiliated with those owners or OpenAI.
-No blanket license for third-party character rights is asserted. See [ARTWORK.md](ARTWORK.md).
