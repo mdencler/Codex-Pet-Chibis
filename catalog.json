@@ -35,6 +35,17 @@
       "sha256": "8ef6eb0b9c666f9f35fe2db184998c71b8105c34ad9fd6ed9f69c03db3e847ef"
     },
     {
+      "id": "lux",
+      "name": "Lux",
+      "description": "A cheerful chibi pixel-art Lux in her classic Demacian armor, carrying her light mage staff.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/lux/spritesheet.webp",
+      "metadata": "pets/lux/pet.json",
+      "download": "downloads/lux.zip",
+      "preview": "previews/lux/idle.gif",
+      "sha256": "8fda8e8a212f51537df80774bbd99bf6ad3468d26543e9457b3f3497d525dab6"
+    },
+    {
       "id": "nall",
       "name": "Nall",
       "description": "A cheerful flying Nall companion in a classic 1990s JRPG anime style.",

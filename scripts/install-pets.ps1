@@ -1,6 +1,6 @@
 param(
-    [ValidateSet('amelia','amumu','hatsune-miku','nall','rebecca')]
-    [string[]]$Pet = @('amelia','amumu','hatsune-miku','nall','rebecca'),
+    [ValidateSet('amelia','amumu','hatsune-miku','lux','nall','rebecca')]
+    [string[]]$Pet = @('amelia','amumu','hatsune-miku','lux','nall','rebecca'),
     [string]$PetsDirectory
 )
 $ErrorActionPreference = 'Stop'
