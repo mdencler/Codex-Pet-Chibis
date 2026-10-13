@@ -66,6 +66,17 @@
       "download": "downloads/rebecca.zip",
       "preview": "previews/rebecca/idle.gif",
       "sha256": "176d94c671ea5dbd1b0e01506d0b7200f278f168e73d92abe145c29c064bf0bc"
+    },
+    {
+      "id": "vayne",
+      "name": "Vayne",
+      "description": "A confident chibi pixel-art Vayne with red glasses, a crimson cape, and her Night Hunter crossbows.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/vayne/spritesheet.webp",
+      "metadata": "pets/vayne/pet.json",
+      "download": "downloads/vayne.zip",
+      "preview": "previews/vayne/idle.gif",
+      "sha256": "a0db405c2d7681352d3023401b4c8cd6382524d03d011dc26bea1a7bc2af5420"
     }
   ]
 }

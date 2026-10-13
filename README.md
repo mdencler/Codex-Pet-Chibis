@@ -12,10 +12,12 @@ Each pet includes the two files needed to install it: `pet.json` and
 | Lux | ![Lux idle animation](previews/lux/idle.gif) | [Lux ZIP](downloads/lux.zip) | [Wave with her light mage staff](previews/lux/waving.gif) |
 | Rebecca | ![Rebecca idle animation](previews/rebecca/idle.gif) | [Rebecca ZIP](downloads/rebecca.zip) | [Pistol draw and wink](previews/rebecca/waving.gif) |
 | Nall | ![Nall idle animation](previews/nall/idle.gif) | [Nall ZIP](downloads/nall.zip) | [Wave](previews/nall/waving.gif) |
+| Vayne | ![Vayne idle animation](previews/vayne/idle.gif) | [Vayne ZIP](downloads/vayne.zip) | [Wave with wrist crossbow lowered](previews/vayne/waving.gif) |
 
 Amelia, Amumu, Hatsune Miku, and Rebecca include the October 11, 2026 animation-size corrections.
 Lux uses her classic Demacian armor and light mage staff, with consistent proportions across animations.
 Nall is included as an additional custom companion.
+Vayne keeps her red glasses, crimson cape, and attached Night Hunter crossbows.
 
 ## Install a pet
 
@@ -57,7 +59,7 @@ existing pet folder. You can specify a custom destination with `-PetsDirectory`.
 ## Files and animation format
 
 - `pets/<id>/`: installable metadata and transparent sprite sheet.
-- `downloads/`: one ZIP per pet and a combined ZIP containing all six.
+- `downloads/`: one ZIP per pet and a combined ZIP containing all seven.
 - `previews/<id>/`: thumbnails and GIFs for all nine standard animations.
 - `catalog.json`: names, descriptions, download paths, and sprite SHA-256 hashes.
 - `SHA256SUMS.txt`: checksums for the published files.
@@ -73,7 +75,7 @@ the installable sprite sheets are transparent.
 The published sheets match the installed local versions byte for byte. Atlas
 dimensions, used cells, transparency, ZIP contents, and checksums were checked.
 The four size-corrected chibis also passed independent static visual review.
-Lux passed independent review of ordered animation frames, model size, and all sixteen gaze directions.
+Lux and Vayne passed independent review of ordered animation frames, model size, and all sixteen gaze directions.
 Live Codex rendering and timed app playback were not independently verified.
 
 After downloading the repository, you can verify file integrity with Python 3:
