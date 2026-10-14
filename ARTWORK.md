@@ -15,5 +15,7 @@ Vayne was created from an approved pixel chibi preview with red glasses, crimson
 an attached wrist crossbow and a crossbow secured on her back. Her package uses the
 same nine-state, sixteen-direction format.
 
+The Lunar collection follows the sixteen selected pixel chibi previews. It includes Alex, Luna, Mia, Jessica with curved horns, Nash, Kyle, and the selected costume variants of Dark Luna, Dragonmaster Alex, Xenobia and Ghaleon. The silver-haired Xenobia concept and blonde classic Xenobia are separate approved interpretations. Classic Luna and Althena retain their distinct reference costumes. Each new pet was generated as separate animation strips, assembled into the v2 atlas, reviewed for consistent proportions and gaze directions, and checked for transparent edges.
+
 This repository makes no claim of official endorsement or ownership of the underlying
 characters. It does not apply a blanket open-source artwork license to them.

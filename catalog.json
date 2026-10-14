@@ -2,6 +2,28 @@
   "formatVersion": 1,
   "pets": [
     {
+      "id": "alex",
+      "name": "Alex",
+      "description": "Pixel chibi Alex from the approved Lunar preview 1.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/alex/spritesheet.webp",
+      "metadata": "pets/alex/pet.json",
+      "download": "downloads/alex.zip",
+      "preview": "previews/alex/idle.gif",
+      "sha256": "1980d4606676544fbacb2cb4994e78db3b6b14fcf88884546375dc5a6ba6f813"
+    },
+    {
+      "id": "alex-dragonmaster-v2",
+      "name": "Alex (Dragonmaster Blue Armor)",
+      "description": "Pixel chibi Alex (Dragonmaster Blue Armor) from the approved Lunar preview 12.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/alex-dragonmaster-v2/spritesheet.webp",
+      "metadata": "pets/alex-dragonmaster-v2/pet.json",
+      "download": "downloads/alex-dragonmaster-v2.zip",
+      "preview": "previews/alex-dragonmaster-v2/idle.gif",
+      "sha256": "d6a3827d6282151b2f31d5f981e406b3e89bbb723cf09daf540ba13c7e19b4af"
+    },
+    {
       "id": "amelia",
       "name": "Amelia",
       "description": "A chibi pixel-art Amelia with purple hair, a black choker, and a cheerful Union Jack wave.",
@@ -24,6 +46,72 @@
       "sha256": "99f3871739843b7eec665f8cb983492c462a10ea92c060ae5249d467ca9243c4"
     },
     {
+      "id": "dark-emperor-ghaleon",
+      "name": "Dark Emperor Ghaleon",
+      "description": "Pixel chibi Dark Emperor Ghaleon from the approved Lunar preview 20.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/dark-emperor-ghaleon/spritesheet.webp",
+      "metadata": "pets/dark-emperor-ghaleon/pet.json",
+      "download": "downloads/dark-emperor-ghaleon.zip",
+      "preview": "previews/dark-emperor-ghaleon/idle.gif",
+      "sha256": "8d5fbc3c7628472008fee06b4ce2e9cac1d3e198db3d2a011ee556d55eec19c0"
+    },
+    {
+      "id": "dark-luna",
+      "name": "Dark Luna (Black Gown)",
+      "description": "Pixel chibi Dark Luna (Black Gown) from the approved Lunar preview 11.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/dark-luna/spritesheet.webp",
+      "metadata": "pets/dark-luna/pet.json",
+      "download": "downloads/dark-luna.zip",
+      "preview": "previews/dark-luna/idle.gif",
+      "sha256": "f7ba24ede814b50793968ff24d57498fc18bb7c81649adee728d6490746b9698"
+    },
+    {
+      "id": "dark-luna-althena",
+      "name": "Dark Luna (Althena)",
+      "description": "Pixel chibi Dark Luna (Althena) from the approved Lunar preview 14.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/dark-luna-althena/spritesheet.webp",
+      "metadata": "pets/dark-luna-althena/pet.json",
+      "download": "downloads/dark-luna-althena.zip",
+      "preview": "previews/dark-luna-althena/idle.gif",
+      "sha256": "0d54b8cceeb55b09938e714193adca54cf0545470555bc27102155e3450ea120"
+    },
+    {
+      "id": "dragonmaster-alex-classic",
+      "name": "Dragonmaster Alex (Classic)",
+      "description": "Pixel chibi Dragonmaster Alex (Classic) from the approved Lunar preview 18.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/dragonmaster-alex-classic/spritesheet.webp",
+      "metadata": "pets/dragonmaster-alex-classic/pet.json",
+      "download": "downloads/dragonmaster-alex-classic.zip",
+      "preview": "previews/dragonmaster-alex-classic/idle.gif",
+      "sha256": "ddbf9d4311c00f0c6d174b39d086c417fc9f4aa0ccbc3d3e64539ac39d631945"
+    },
+    {
+      "id": "ghaleon-classic",
+      "name": "Ghaleon Classic",
+      "description": "Pixel chibi Ghaleon Classic from the approved Lunar preview 19.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/ghaleon-classic/spritesheet.webp",
+      "metadata": "pets/ghaleon-classic/pet.json",
+      "download": "downloads/ghaleon-classic.zip",
+      "preview": "previews/ghaleon-classic/idle.gif",
+      "sha256": "58c8b4f777e910df8e37d790e37f09f111b0e36c8e6f7a03ac84cc7cde288457"
+    },
+    {
+      "id": "ghaleon-dark-robes-v2",
+      "name": "Ghaleon (Dark Robes)",
+      "description": "Pixel chibi Ghaleon (Dark Robes) from the approved Lunar preview 16.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/ghaleon-dark-robes-v2/spritesheet.webp",
+      "metadata": "pets/ghaleon-dark-robes-v2/pet.json",
+      "download": "downloads/ghaleon-dark-robes-v2.zip",
+      "preview": "previews/ghaleon-dark-robes-v2/idle.gif",
+      "sha256": "2a7ea95781ec561aaff4bfad2355abbeedcb9fc9984c60f2f9936c21732ab620"
+    },
+    {
       "id": "hatsune-miku",
       "name": "Hatsune Miku",
       "description": "A cheerful chibi pixel-art Hatsune Miku with teal twin tails, headset, and her classic outfit.",
@@ -33,6 +121,50 @@
       "download": "downloads/hatsune-miku.zip",
       "preview": "previews/hatsune-miku/idle.gif",
       "sha256": "8ef6eb0b9c666f9f35fe2db184998c71b8105c34ad9fd6ed9f69c03db3e847ef"
+    },
+    {
+      "id": "jessica-horns",
+      "name": "Jessica (Horns)",
+      "description": "Pixel chibi Jessica (Horns) from the approved Lunar preview 9.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/jessica-horns/spritesheet.webp",
+      "metadata": "pets/jessica-horns/pet.json",
+      "download": "downloads/jessica-horns.zip",
+      "preview": "previews/jessica-horns/idle.gif",
+      "sha256": "0655a15436736aa30d5df5517fd7c13b2bae5c1535ca1bea7a9219ab7f434a1c"
+    },
+    {
+      "id": "kyle",
+      "name": "Kyle",
+      "description": "Pixel chibi Kyle from the approved Lunar preview 6.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/kyle/spritesheet.webp",
+      "metadata": "pets/kyle/pet.json",
+      "download": "downloads/kyle.zip",
+      "preview": "previews/kyle/idle.gif",
+      "sha256": "a43ed4d2bad2416c9030f65ef466b3f1155f4e6cdcb895867c20f1d8e7fe6b70"
+    },
+    {
+      "id": "luna",
+      "name": "Luna",
+      "description": "Pixel chibi Luna from the approved Lunar preview 2.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/luna/spritesheet.webp",
+      "metadata": "pets/luna/pet.json",
+      "download": "downloads/luna.zip",
+      "preview": "previews/luna/idle.gif",
+      "sha256": "9b02d5d3afb6033d6fc11c80c2ed9ed779530a311aecac3c1e175f28402e39ac"
+    },
+    {
+      "id": "luna-classic",
+      "name": "Luna Classic",
+      "description": "Pixel chibi Luna Classic from the approved Lunar preview 15.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/luna-classic/spritesheet.webp",
+      "metadata": "pets/luna-classic/pet.json",
+      "download": "downloads/luna-classic.zip",
+      "preview": "previews/luna-classic/idle.gif",
+      "sha256": "5796bbc4ea272183b99b4dc1dad66ccd79705ac46d9594fd9f8a70404e00ea80"
     },
     {
       "id": "lux",
@@ -46,6 +178,17 @@
       "sha256": "8fda8e8a212f51537df80774bbd99bf6ad3468d26543e9457b3f3497d525dab6"
     },
     {
+      "id": "mia",
+      "name": "Mia",
+      "description": "Pixel chibi Mia from the approved Lunar preview 3.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/mia/spritesheet.webp",
+      "metadata": "pets/mia/pet.json",
+      "download": "downloads/mia.zip",
+      "preview": "previews/mia/idle.gif",
+      "sha256": "5c8a9ef907a8162c0fe6c7ea82c98eff6acfacc40e92a669ba35a4ae4809b1a3"
+    },
+    {
       "id": "nall",
       "name": "Nall",
       "description": "A cheerful flying Nall companion in a classic 1990s JRPG anime style.",
@@ -55,6 +198,17 @@
       "download": "downloads/nall.zip",
       "preview": "previews/nall/idle.gif",
       "sha256": "911ad70a77e4ff233b0e1ff508a9e5df8467374536f0e50ab28636f2f1f06c61"
+    },
+    {
+      "id": "nash",
+      "name": "Nash",
+      "description": "Pixel chibi Nash from the approved Lunar preview 5.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/nash/spritesheet.webp",
+      "metadata": "pets/nash/pet.json",
+      "download": "downloads/nash.zip",
+      "preview": "previews/nash/idle.gif",
+      "sha256": "76f4fd817b73d0255fa22233732a78215fd2fd052f313e5e70f832e3b31a149d"
     },
     {
       "id": "rebecca",
@@ -77,6 +231,28 @@
       "download": "downloads/vayne.zip",
       "preview": "previews/vayne/idle.gif",
       "sha256": "a0db405c2d7681352d3023401b4c8cd6382524d03d011dc26bea1a7bc2af5420"
+    },
+    {
+      "id": "xenobia",
+      "name": "Xenobia (Silver-Hair Concept)",
+      "description": "Pixel chibi Xenobia (Silver-Hair Concept) from the approved Lunar preview 13.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/xenobia/spritesheet.webp",
+      "metadata": "pets/xenobia/pet.json",
+      "download": "downloads/xenobia.zip",
+      "preview": "previews/xenobia/idle.gif",
+      "sha256": "72eea76c05c504ac3047ebf5d26f9f8154f39752c8951ffe76f47f67039d177e"
+    },
+    {
+      "id": "xenobia-classic-v2",
+      "name": "Xenobia Classic",
+      "description": "Pixel chibi Xenobia Classic from the approved Lunar preview 17.",
+      "spriteVersionNumber": 2,
+      "atlas": "pets/xenobia-classic-v2/spritesheet.webp",
+      "metadata": "pets/xenobia-classic-v2/pet.json",
+      "download": "downloads/xenobia-classic-v2.zip",
+      "preview": "previews/xenobia-classic-v2/idle.gif",
+      "sha256": "3ed56385ac7c7b0b26674b8f38144b6b2f31fff27e9b85de2d35276f4b1b226a"
     }
   ]
 }

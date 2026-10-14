@@ -1,6 +1,5 @@
 param(
-    [ValidateSet('amelia','amumu','hatsune-miku','lux','nall','rebecca','vayne')]
-    [string[]]$Pet = @('amelia','amumu','hatsune-miku','lux','nall','rebecca','vayne'),
+    [string[]]$Pet,
     [string]$PetsDirectory
 )
 $ErrorActionPreference = 'Stop'
@@ -11,7 +10,10 @@ if (!$PetsDirectory) {
 }
 $PetsDirectory = [IO.Path]::GetFullPath($PetsDirectory)
 $catalog = Get-Content -LiteralPath (Join-Path $collectionRoot 'catalog.json') -Raw | ConvertFrom-Json
+if (!$Pet -or $Pet.Count -eq 0) { $Pet = @($catalog.pets.id) }
+if (@($Pet | Select-Object -Unique).Count -ne $Pet.Count) { throw 'Duplicate pet IDs are not allowed.' }
 foreach ($id in $Pet) {
+    if ($id -notin @($catalog.pets.id)) { throw "Unknown pet ID: $id" }
     $entry = $catalog.pets | Where-Object id -eq $id
     $source = Join-Path $collectionRoot "pets/$id"
     $destination = Join-Path $PetsDirectory $id
